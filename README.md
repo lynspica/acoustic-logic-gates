@@ -1,5 +1,5 @@
 # acoustic-logic-gates
-## **Modelling the acoustic logic gates by solving the wave equation over the prescribed geometries by Wang (Scientific Reports, 2019)**
+## **Modelling the acoustic logic gates by solving the wave equation over the prescribed geometries by Wang et al. (10.1038/s41598-019-44769-0)**
 
 This project presents the numerical modelling of acoustic logic gates in accordance with Wang et al. (10.1038/s41598-019-44769-0). Wang et al. introduced OR, XOR, NOT, AND, XNOR, XOR and XAND gates based on manipulating the incoming acoustic waves with Helmholtz resonators. This project is only limited with OR and XOR gates, and requires further work on the XOR gate as the introduced geometry does not satisfy the output requirements within the prescribed frequency range.
 
