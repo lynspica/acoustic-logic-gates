@@ -5,13 +5,13 @@ This project presents the numerical modelling of acoustic logic gates in accorda
 
 The figure below shows the OR and XOR logic gates geometries constructed in MATLAB. The upper geometry belongs to the OR gate, and the lower gate belongs to the XOR gate. Helmholtz resonators and input and output regions are depicted in the figure.
 
- <img src="https://github.com/lynspica/acoustic-logic-gates/blob/main/figs/geometries.PNG" width="750">
+ <img src="https://github.com/lynspica/acoustic-logic-gates/blob/main/figs/geometries.PNG" width="600">
 
 The animations below show the propogation of an acoustic wave (sinusoidal signal with arbitrary frequency for demonstration) over the XOR gates, where the upper simulation corresponds to Input = {1,0} and the below corresponds to Input = {0,1}.  
 
- <img src="https://github.com/lynspica/acoustic-logic-gates/blob/main/figs/XOR_input10prefactor_19.gif" width="750">
- <img src="https://github.com/lynspica/acoustic-logic-gates/blob/main/figs/XOR_input01prefactor_19.gif" width="750">
+ <img src="https://github.com/lynspica/acoustic-logic-gates/blob/main/figs/XOR_input10prefactor_19.gif" width="600">
+ <img src="https://github.com/lynspica/acoustic-logic-gates/blob/main/figs/XOR_input01prefactor_19.gif" width="600">
 
 The figure below shows the average pressure obtained at the outlet, over a range of input frequencies. For the OR gate, the numerical model is in accordance with the expected behavior of OR gates, while the XOR gate with Input = {0,1} does not show the expected behavior of the XOR gate.
 
- <img src="https://github.com/lynspica/acoustic-logic-gates/blob/main/figs/results.PNG" width="750">
+ <img src="https://github.com/lynspica/acoustic-logic-gates/blob/main/figs/results.PNG" width="600">
